@@ -1,0 +1,33 @@
+
+body{
+
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Cormorant Garamond', serif;
+
+	background: url(photo4.jpg) no-repeat
+	center fixed;
+	background size; cover;
+}
+
+#home {
+	
+	width: 90%;
+	height: 1000px 
+	margin: 0 auto;
+	padding: 12px;
+	backgorund: rbga (255, 0, 0, 9);
+
+article{
+}
+
+img{
+width: 100%;
+max-widht: 100%
+}
+
+h2{
+
+}
+p{
+	
+}
