@@ -18,7 +18,9 @@ font-family: 'Cormorant Garamond', serif;
 }	
 
 
-	#pinturas {
+	#Favorites {
+		display: inline-block;
+		vertical-align: top;
 		width: 100%;
 		height: 100%
 		margin: 0 auto;
@@ -48,5 +50,23 @@ h2{
 p{
 	font-family:'Cormorant Garamond', serif;
 	font-size: 12px
+	text-align:justify;
 	
+}
+
+header,footer{
+	background: rgb(255,255,255);
+	margin:0 auto;
+	width: 100%;
+	padding: 12px;
+}
+
+header p, footer p{
+background: rgb(255,255,255);
+	margin:0 auto;
+	width: 100%;
+
+
+
+
 }
