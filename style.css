@@ -1,33 +1,52 @@
 
 body{
-
+background:url(photo4.jpg) no-repeat 
+center center fixed;
+background-size: cover;
 font-family: 'Cinzel Decorative', cursive;
 font-family: 'Cormorant Garamond', serif;
 
-	background: url(photo4.jpg) no-repeat
-	center fixed;
-	background size; cover;
 }
 
 #home {
 	
-	width: 90%;
+	width: 100%;
 	height: 1000px 
 	margin: 0 auto;
 	padding: 12px;
-	backgorund: rbga (255, 0, 0, 9);
+	background: rgba(255,255,255,.9);
+}	
 
-article{
-}
 
+	#pinturas {
+		width: 100%;
+		height: 100%
+		margin: 0 auto;
+		padding: 12px;
+	}
+ 
+ article{
+ 	width: 30%;
+ 	height: auto;
+ 	display: inline-block;
+ 	margin: 0 auto;
+ 	padding: 12px;
+ 	vertical-align: top;
+ }
 img{
-width: 100%;
-max-widht: 100%
+
+	width: 100%;
+	max-width: 100%;
+	border-radius: 50%;
 }
 
 h2{
-
+	font-family:'Cormorant Garamond', serif;
+	font-size: 24px;
+	font-family: 'Cinzel Decorative', cursive;
 }
 p{
+	font-family:'Cormorant Garamond', serif;
+	font-size: 12px
 	
 }
